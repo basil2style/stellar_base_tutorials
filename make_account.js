@@ -1,3 +1,6 @@
+
+//Source from https://www.stellar.org/developers/horizon/reference/tutorials/follow-received-payments.html
+
 var Keypair = require("stellar-base").Keypair;
 
 var newAccount = Keypair.random();
